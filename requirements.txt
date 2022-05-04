@@ -1,0 +1,8 @@
+cloudpickle==2.0.0
+gym==0.23.1
+gym-notices==0.0.6
+holdem @ git+https://github.com/wenkesj/holdem@b2089d54122c3396a1d0e97998401dfba8027a89
+importlib-metadata==4.11.3
+numpy==1.22.3
+treys==0.1.4
+zipp==3.8.0
