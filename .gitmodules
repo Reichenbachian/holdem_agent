@@ -1,0 +1,3 @@
+[submodule "external/neuron_poker"]
+	path = external/neuron_poker
+	url = https://github.com/Reichenbachian/neuron_poker
